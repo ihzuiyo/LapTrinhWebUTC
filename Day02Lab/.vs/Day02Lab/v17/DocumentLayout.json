@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\day02lab\\controllers\\new2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|solutionrelative:controllers\\new2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\day02lab\\views\\new2\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|solutionrelative:views\\new2\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\day02lab\\views\\new2\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|solutionrelative:views\\new2\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\day02lab\\controllers\\new1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|solutionrelative:controllers\\new1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\day02lab\\views\\new1\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|solutionrelative:views\\new1\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\day02lab\\views\\new1\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|solutionrelative:views\\new1\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\day02lab\\views\\new1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|solutionrelative:views\\new1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\day02lab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\day02lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\day02lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\day02lab\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\day02lab\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A3B357C-9F6D-404A-AB76-57D7D6C845E3}|Day02Lab.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GioiThieu.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Views\\New2\\GioiThieu.cshtml",
+              "RelativeDocumentMoniker": "Views\\New2\\GioiThieu.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Views\\New2\\GioiThieu.cshtml",
+              "RelativeToolTip": "Views\\New2\\GioiThieu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T09:50:13.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangChu.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Views\\New2\\TrangChu.cshtml",
+              "RelativeDocumentMoniker": "Views\\New2\\TrangChu.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Views\\New2\\TrangChu.cshtml",
+              "RelativeToolTip": "Views\\New2\\TrangChu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T09:49:22.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "New2Controller.cs",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Controllers\\New2Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\New2Controller.cs",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Controllers\\New2Controller.cs",
+              "RelativeToolTip": "Controllers\\New2Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:48:58.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Views\\New1\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\New1\\Error.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Views\\New1\\Error.cshtml",
+              "RelativeToolTip": "Views\\New1\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T09:47:59.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sample.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Views\\New1\\Sample.cshtml",
+              "RelativeDocumentMoniker": "Views\\New1\\Sample.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Views\\New1\\Sample.cshtml",
+              "RelativeToolTip": "Views\\New1\\Sample.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T09:43:22.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Views\\New1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\New1\\Index.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Views\\New1\\Index.cshtml",
+              "RelativeToolTip": "Views\\New1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T09:41:11.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "New1Controller.cs",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Controllers\\New1Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\New1Controller.cs",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Controllers\\New1Controller.cs",
+              "RelativeToolTip": "Controllers\\New1Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:40:04.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:24:47.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T08:22:20.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T08:18:26.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:16:53.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day02Lab\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T06:16:07.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
