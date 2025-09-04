@@ -1,0 +1,13 @@
+Bài tập lập trình web, 1 số công nghệ backend asp.net :
+
+Frontend : Framework ReactJS
+
+Tìm hiểu về restful api (1 dạng liên kết frontE-backE)
+4 phương thức gọi chính:
+- Get : Lấy thông tin từ BE lên FE
+- Put : Cập nhật(add,delete,..) can thiệp từ phía người dùng về phía máy chủ
+- Post : Phía người dùng gửi yêu cầu thêm dữ liệu vào BE
+Tìm hiểu về API 
+Database : MongoDB
+
+Backend : 
