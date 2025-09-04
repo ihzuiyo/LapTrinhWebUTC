@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\views\\shared\\components\\book\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:views\\shared\\components\\book\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\views\\book\\popularbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:views\\book\\popularbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\viewcomponents\\bookviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:viewcomponents\\bookviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\views\\shared\\banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:views\\shared\\banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\danghuy_th3_step_by_step\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9EB5B62-4A84-4C15-9039-40B8C55810C6}|DangHuy_TH3_Step_by_Step.csproj|solutionrelative:views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T11:43:14.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "my_layout.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Shared\\my_layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\my_layout.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Shared\\my_layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\my_layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T11:37:48.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T11:35:08.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Book\\Default.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Book\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T11:33:59.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookViewComponent.cs",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\ViewComponents\\BookViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\BookViewComponent.cs",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\ViewComponents\\BookViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\BookViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:29:10.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PopularBook.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Book\\PopularBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\PopularBook.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Book\\PopularBook.cshtml",
+              "RelativeToolTip": "Views\\Book\\PopularBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T11:15:03.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T11:10:49.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Banner.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Shared\\Banner.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Banner.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Shared\\Banner.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Banner.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T11:10:35.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Edit.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T09:59:05.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T09:48:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T07:43:12.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:41:05.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\DangHuy_TH3_Step_by_Step\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:24:51.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

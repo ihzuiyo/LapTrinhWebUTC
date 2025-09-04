@@ -1,0 +1,47 @@
+﻿
+@model DangHuy_TH3_Step_by_Step.Models.Book
+
+@{
+    ViewData["Title"] = "Create";
+}
+<h2>Thêm mới sách</h2>
+<form action="" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Title">Tên sách</label>
+        <input type="text" class="form-control" asp-for="Title" placeholder="Tên sách" />
+    </div>  
+    <div class="form-group">
+        <label asp-for="AuthorId">Tác giả</label>
+        <select asp-for="AuthorId" class="form-control" asp-items="ViewBag.authors">
+            <option value="">Chọn tác giả</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GenreId">Thể loại</label>
+        <select asp-for="GenreId" class="form-control" asp-items="ViewBag.genres">
+            <option value="">Chọn Thể loại</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price">Giá sách</label>
+        <input asp-for="Price" class="form-control" placeholder="Giá sách" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TotalPage">Tổng số trang</label>
+        <input asp-for="TotalPage" class="form-control" placeholder="Tổng số trang" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Image">Hình ảnh / Poster</label>
+        <input asp-for="Image" type="file" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Sumary">Giới thiệu ngắn</label>
+        <textarea asp-for="Sumary" class="form-control" placeholder="Nội dung giới thiệu sách..."></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu lại</button>
+</form>
