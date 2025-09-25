@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\th5_model\\ltw_day05lab\\ltw_day05lab_th\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|solutionrelative:ltw_day05lab_th\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\th5_model\\ltw_day05lab\\ltw_day05lab_th\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|solutionrelative:ltw_day05lab_th\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\th5_model\\ltw_day05lab\\ltw_day05lab_th\\views\\shared\\_managerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|solutionrelative:ltw_day05lab_th\\views\\shared\\_managerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\th5_model\\ltw_day05lab\\ltw_day05lab_th\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|solutionrelative:ltw_day05lab_th\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\th5_model\\ltw_day05lab\\ltw_day05lab_th\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|solutionrelative:ltw_day05lab_th\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\th5_model\\ltw_day05lab\\ltw_day05lab_th\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|solutionrelative:ltw_day05lab_th\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\th5_model\\ltw_day05lab\\ltw_day05lab_th\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|solutionrelative:ltw_day05lab_th\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\th5_model\\ltw_day05lab\\ltw_day05lab_th\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|solutionrelative:ltw_day05lab_th\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|d:\\study\\dai hoc\\nam3\\laptrinhweb\\th5_model\\ltw_day05lab\\ltw_day05lab_th\\views\\manager\\employees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4D47E83-1D69-448D-AAE4-6DD271AFA8B8}|LTW_Day05Lab_TH\\LTW_Day05Lab_TH.csproj|solutionrelative:ltw_day05lab_th\\views\\manager\\employees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Program.cs",
+              "RelativeDocumentMoniker": "LTW_Day05Lab_TH\\Program.cs",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Program.cs",
+              "RelativeToolTip": "LTW_Day05Lab_TH\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:28:54.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ManagerLayout.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Views\\Shared\\_ManagerLayout.cshtml",
+              "RelativeDocumentMoniker": "LTW_Day05Lab_TH\\Views\\Shared\\_ManagerLayout.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Views\\Shared\\_ManagerLayout.cshtml",
+              "RelativeToolTip": "LTW_Day05Lab_TH\\Views\\Shared\\_ManagerLayout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:23:32.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LTW_Day05Lab_TH\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LTW_Day05Lab_TH\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:03:22.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employees.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Views\\Manager\\Employees.cshtml",
+              "RelativeDocumentMoniker": "LTW_Day05Lab_TH\\Views\\Manager\\Employees.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Views\\Manager\\Employees.cshtml",
+              "RelativeToolTip": "LTW_Day05Lab_TH\\Views\\Manager\\Employees.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:09:27.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sidebar.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Views\\Shared\\Sidebar.cshtml",
+              "RelativeDocumentMoniker": "LTW_Day05Lab_TH\\Views\\Shared\\Sidebar.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Views\\Shared\\Sidebar.cshtml",
+              "RelativeToolTip": "LTW_Day05Lab_TH\\Views\\Shared\\Sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:23:09.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "LTW_Day05Lab_TH\\Controllers\\ManagerController.cs",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "LTW_Day05Lab_TH\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:04:38.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Navbar.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Views\\Shared\\Navbar.cshtml",
+              "RelativeDocumentMoniker": "LTW_Day05Lab_TH\\Views\\Shared\\Navbar.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Views\\Shared\\Navbar.cshtml",
+              "RelativeToolTip": "LTW_Day05Lab_TH\\Views\\Shared\\Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:23:04.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "LTW_Day05Lab_TH\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "LTW_Day05Lab_TH\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:22:04.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LTW_Day05Lab_TH\\Models\\Employee.cs",
+              "ToolTip": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\TH5_Model\\LTW_Day05Lab\\LTW_Day05Lab_TH\\Models\\Employee.cs",
+              "RelativeToolTip": "LTW_Day05Lab_TH\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:11:58.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
