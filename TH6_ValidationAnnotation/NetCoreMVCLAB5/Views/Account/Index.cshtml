@@ -1,0 +1,62 @@
+﻿@model IEnumerable<NetCoreMVCLAB5.Models.Account>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Họ và tên</th>
+            <th>Địa chỉ Email</th>
+            <th>Số điện thoại</th>
+            <th>Địa chỉ thường trú</th>
+            <th>Ảnh đại diện</th>
+            <th>Ngày sinh</th>
+            <th>Mật khẩu</th>
+            <th>Link Facebook cá nhân</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.FullName</td>
+                    <td>@item.Email</td>
+                    <td>@item.Phone</td>
+                    <td>@item.Address</td>
+                    <td>
+                        <img src="@item.Avatar" alt="Avatar" width="50" height="50" style="border-radius:50%;" />
+                    </td>
+                    <td>@item.Birthday.ToString("dd/MM/yyyy")</td>
+                    <td>@item.Password</td>
+                    <td>
+                        <a href="@item.Facebook" target="_blank">Facebook</a>
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="10" class="text-center">Chưa có dữ liệu</td>
+            </tr>
+        }
+    </tbody>
+</table>
