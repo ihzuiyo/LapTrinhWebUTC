@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QuF5Vtskcvc=",
+  "dgSpecHash": "gcB2zS82o28=",
   "success": true,
-  "projectFilePath": "D:\\study\\dai hoc\\nam3\\ThamKhaoLTWeb\\LTW_Day0Lab\\LTW_Day0Lab_DatabaseFirst\\LTW_Day0Lab_DatabaseFirst.csproj",
+  "projectFilePath": "D:\\study\\dai hoc\\nam3\\LapTrinhWeb\\Day0_Data_Code_First\\LTW_Day0Lab\\LTW_Day0Lab_DatabaseFirst\\LTW_Day0Lab_DatabaseFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
